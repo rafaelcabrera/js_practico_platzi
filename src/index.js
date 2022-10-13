@@ -7,5 +7,3 @@ function toggleDesktopMenu() {
   console.log('Click');
   desktopMenu.classList.toggle('inactive');
 }
-
-console.log('JS funcionando');
